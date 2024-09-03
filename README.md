@@ -1,5 +1,5 @@
 # HTML_PROJECT
-![Project Preview]()
+![Project Preview](https://github.com/Frenchitas/Proyecto_HTML/blob/main/Proyecto%20HTML/HTML-PROJECT.png)
 # HTML-PROJECT
 Welcome to the HTML Project! 🏡🎨 This project is designed to create an amazing web with functionality for the academy where I study called ConquerBlocks. 
 
